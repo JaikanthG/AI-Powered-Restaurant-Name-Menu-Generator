@@ -53,19 +53,4 @@ streamlit run app.py
 2. Click **Generate** to receive a list of AI-generated restaurant names and menu items.
 3. Click **Refresh** to explore different options.
 
-## Demo
-
-&#x20;*(Replace with an actual GIF or screenshot)*
-
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or feedback, reach out via [your email] or create an issue in this repository.
 
